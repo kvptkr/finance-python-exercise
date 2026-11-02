@@ -1,0 +1,30 @@
+{
+  "reporting_date": "2026-09-30",
+  "currency": "USD",
+  "portfolio_nav": {
+    "date": "2026-09-30",
+    "amount": 410000
+  },
+  "transactions": [
+    {"fund": "Beacon Fund", "date": "2025-07-15", "type": "distribution", "amount": 8000, "status": "completed"},
+    {"fund": "Atlas Fund", "date": "2024-01-15", "type": "capital_call", "amount": 120000, "status": "completed"},
+    {"fund": "Cedar Fund", "date": "2026-10-15", "type": "distribution", "amount": 12000, "status": "completed"},
+    {"fund": "Cedar Fund", "date": "2024-11-15", "type": "capital_call", "amount": 30000, "status": "completed"},
+    {"fund": "Atlas Fund", "date": "2026-09-10", "type": "capital_call", "amount": 25000, "status": "pending"},
+    {"fund": "Beacon Fund", "date": "2026-09-30", "type": "distribution", "amount": 3000, "status": "completed"},
+    {"fund": "Atlas Fund", "date": "2025-03-01", "type": "capital_call", "amount": 20000, "status": "completed"},
+    {"fund": "Cedar Fund", "date": "2025-09-30", "type": "distribution", "amount": 5000, "status": "completed"},
+    {"fund": "Beacon Fund", "date": "2024-02-01", "type": "capital_call", "amount": 80000, "status": "completed"},
+    {"fund": "Atlas Fund", "date": "2026-10-01", "type": "capital_call", "amount": 40000, "status": "completed"},
+    {"fund": "Atlas Fund", "date": "2025-12-31", "type": "distribution", "amount": 18000, "status": "completed"},
+    {"fund": "Cedar Fund", "date": "2024-03-01", "type": "capital_call", "amount": 50000, "status": "completed"},
+    {"fund": "Beacon Fund", "date": "2026-04-01", "type": "distribution", "amount": 14000, "status": "completed"},
+    {"fund": "Cedar Fund", "date": "2025-02-10", "type": "capital_call", "amount": 10000, "status": "cancelled"},
+    {"fund": "Atlas Fund", "date": "2024-07-01", "type": "capital_call", "amount": 60000, "status": "completed"},
+    {"fund": "Atlas Fund", "date": "2026-09-30", "type": "distribution", "amount": 15000, "status": "completed"},
+    {"fund": "Beacon Fund", "date": "2026-08-20", "type": "distribution", "amount": 7500, "status": "pending"},
+    {"fund": "Cedar Fund", "date": "2026-07-01", "type": "distribution", "amount": 9000, "status": "completed"},
+    {"fund": "Beacon Fund", "date": "2024-09-16", "type": "capital_call", "amount": 40000, "status": "completed"},
+    {"fund": "Atlas Fund", "date": "2025-06-30", "type": "distribution", "amount": 12000, "status": "completed"}
+  ]
+}
