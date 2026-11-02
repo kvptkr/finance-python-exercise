@@ -6,7 +6,7 @@ A short Python exercise using synthetic private-market investment transactions. 
 
 Download [dataset.json](https://raw.githubusercontent.com/kvptkr/finance-python-exercise/main/dataset.json) programmatically. This public URL requires no authentication.
 
-The JSON contains `reporting_date`, `currency`, `portfolio_nav` (an `amount` and `date`), and a `transactions` array. All amounts are positive, in USD, and all dates use `YYYY-MM-DD`.
+The dataset contains 500 distinct transactions across three funds. The JSON contains `reporting_date`, `currency`, `portfolio_nav` (an `amount` and `date`), and a `transactions` array. All amounts are positive, in USD, and all dates use `YYYY-MM-DD`.
 
 Each transaction contains `fund`, `date`, `type`, `amount`, and `status`:
 
