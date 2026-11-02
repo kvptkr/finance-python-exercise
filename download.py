@@ -5,7 +5,10 @@ from pathlib import Path
 from urllib.request import urlopen
 
 
-DATA_URL = "https://raw.githubusercontent.com/kvptkr/finance-python-exercise/main/dataset.json"
+DATA_URL = (
+    "https://raw.githubusercontent.com/kvptkr/finance-python-exercise/"
+    "ac6bc14003ab36aa2e8cddbf6cb2f915e583254a/dataset.json"
+)
 
 
 def main():
